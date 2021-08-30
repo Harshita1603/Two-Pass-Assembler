@@ -4,7 +4,7 @@
 Run the commands in the folder contaniing the code and the input file - inp.txt
 
 
-###Assembler.cpp contains program for the assembler for sic xe with provisions for the extended version instructions in the code.
+### Assembler.cpp contains program for the assembler for sic xe with provisions for the extended version instructions in the code.
 
 TO COMPILE:
 
@@ -22,7 +22,7 @@ pass1 creates the intermediate.txt
 pass2 creates the object.txt
  
  
-###LinkerLoader.cpp contains program for the two pass linker loader
+### LinkerLoader.cpp contains program for the two pass linker loader
 
 TO COMPILE:
 
